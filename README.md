@@ -1,4 +1,4 @@
-![preview](.\assets\img\preview.jpeg)
+![preview](preview.jpeg)
 
 Esse projeto foi desenvolvido para uma atividade para apura nossos conhecimentos web
 
