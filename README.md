@@ -1,4 +1,4 @@
-![preview](preview.jpeg)
+![preview](assets/img/previee.png)
 
 Esse projeto foi desenvolvido para uma atividade para apura nossos conhecimentos web
 
